@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building cool projects.
 - 📫 You can reach out to me via "https://www.linkedin.com/in/thinley-lama-842631252"
 
-- SKILLS![js](https://github.com/EarthIsHeaven/EarthIsHeaven/assets/128626751/a322774f-f91d-4325-8cf4-a8883a54baad)
+
 
 
 
