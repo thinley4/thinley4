@@ -1,5 +1,7 @@
-<h1>Hi 👋</h1>
-<h2>I'm Thinley</h2> 
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+I'm+Thinley;Welcome+To+My+GitHub+Profile;)
+<!-- Coding GIF image -->
+<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
+
 
 - 🌱 I’m currently exploring nextjs
 - 👯 I’m looking to collaborate on good projects.
