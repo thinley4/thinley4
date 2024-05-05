@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thinley</h1>
+<h1>Hi 👋</h1>
+<h2>I'm Thinley</h2> 
 
 - 🌱 I’m currently exploring nextjs
 - 👯 I’m looking to collaborate on good projects.
@@ -17,7 +18,7 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss,materialui,shadcn,hono)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss,materialui)](https://skillicons.dev)
 
 <h2>Databases and ORMs</h2>
   
@@ -25,7 +26,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,npm,postman,docker)](https://skillicons.dev)
 
 <!---
 EarthIsHeaven/EarthIsHeaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
