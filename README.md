@@ -3,7 +3,7 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 
-- 🌱 I’m currently exploring nextjs
+- 🌱 I’m currently exploring AI
 - 👯 I’m looking to collaborate on good projects.
 
   
